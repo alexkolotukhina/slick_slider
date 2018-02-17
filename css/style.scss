@@ -123,8 +123,8 @@ body{
 	height: 96px;
 	z-index: 10;
 }
-.opacity {
-	opacity: 0.3;
+.slick-active + .slick-active + .slick-active + .slick-active{
+  	opacity: 0.3;
 }
 
 
